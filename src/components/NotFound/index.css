@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.notfound-contanier {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
